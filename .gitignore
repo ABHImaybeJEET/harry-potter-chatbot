@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+hp_books/
+hp_chunks.pkl
+hp_faiss.idx
+*.zip
+*.txt
+.env
+.DS_Store
